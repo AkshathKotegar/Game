@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_registered"
+        icon="@drawable/ic_menu_send"
+        title="Registered Games"
+        barColorWhenSelected="#940345" />
+    <tab
+        id="@+id/tab_invited"
+        icon="@drawable/ic_menu_send"
+        title="Invited Games"
+        barColorWhenSelected="#076b99" />
+    <tab
+        id="@+id/tab_open"
+        icon="@drawable/ic_menu_send"
+        title="Open Games"
+        barColorWhenSelected="#ef6829" />
+
+</tabs>
